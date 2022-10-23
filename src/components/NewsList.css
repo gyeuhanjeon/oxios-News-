@@ -1,0 +1,15 @@
+
+
+.NewsListBlock{
+    box-sizing: border-box;
+    padding-bottom: 3em;
+    width: 768px;
+    margin: 0 auto;
+    margin-top: 2rem;
+    @media screen and (max-width: 768px) {
+        witdh: 100%;
+        padding-left: 1em;
+        padding-right:1em;
+    }
+}
+
